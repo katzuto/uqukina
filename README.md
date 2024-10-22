@@ -1,0 +1,3 @@
+### <pre>*uqukina@github:~$>* <br>my name is Dmitry and i am a full-time frontend engineer<br>based in Moscow, Russia<br><br><br>* langs and technologies i work with:<br> - React, Next, Vue, Nuxt<br> - React Router, Redux, RTK, Mobx, React Router, Storybook, React Query, React Saga, Redux Thunk, Pinia, WebSockets<br> - Javascript(ES6), Typescript, HTML5, CSS3<br> - docker, AXIOS, Jest, Cyprus, MUI, Styled-components, Webpack, Vite, scss module<br> - Clear  architecture<br><br><br>MIIT University student<br></pre>
+
+[Telegram](https://t.me/zionliok) | [𝙀-𝙢𝙖𝙞𝙡](vstepovoi@gmail.com) | [𝘾𝙑](https://hh.ru/resume/bfd97f70ff0c45a9ba0039ed1f4274354c3874?from=share_ios)
